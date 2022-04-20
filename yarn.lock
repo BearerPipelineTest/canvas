@@ -3213,10 +3213,10 @@ file-type@^12.0.0:
   resolved "https://registry.yarnpkg.com/file-type/-/file-type-12.4.2.tgz#a344ea5664a1d01447ee7fb1b635f72feb6169d9"
   integrity sha512-UssQP5ZgIOKelfsaB5CuGAL+Y+q7EmONuiwF3N5HAH0t27rvrttgi6Ra9k/+DVaY9UF6+ybxu5pOXLUdA8N7Vg==
 
-filepond-plugin-file-validate-size@^2.2.1:
-  version "2.2.5"
-  resolved "https://registry.yarnpkg.com/filepond-plugin-file-validate-size/-/filepond-plugin-file-validate-size-2.2.5.tgz#985c83f0e0a9c09918310a231c5f014fb642c92b"
-  integrity sha512-x+fYZl317R17w3dExKab1oYZa10Wl2HcXKD6dzIgRKyngEHtjBF99geGaiDPk9IfozV8Zjzx69D7urcthF2CYQ==
+filepond-plugin-file-validate-size@^2.2.6:
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/filepond-plugin-file-validate-size/-/filepond-plugin-file-validate-size-2.2.6.tgz#8df7833eb874c681dbfc269a889892931b6ce31d"
+  integrity sha512-19raim61Hv8/p5pNQyRFF34WLZzr5Pl1Ryd4O1Tf6tUYxnAtii9WCttom0hSnPQy41dKEdB0E5KPAAqs/NnL7g==
 
 filepond-plugin-file-validate-type@^1.2.5:
   version "1.2.6"
